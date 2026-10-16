@@ -1,0 +1,6 @@
+{
+  "name": "Pak Board Prep & Paper Maker",
+  "description": "Board exam preparation for Class 9 & 11 with interactive MCQ quizzes, chapter notes, and exam paper generator for teachers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
